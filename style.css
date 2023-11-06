@@ -1,0 +1,47 @@
+.wdym{
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+    margin-left:713px;
+    margin-right:700px;
+    margin-top:30px;
+    padding:10px;
+    background-color:lightgrey;
+    border-radius:18px ;
+    display: inline-block;
+    text-decoration:black;
+}
+@media screen and (max-width: 768px){
+    .why{
+        width: auto;
+        margin-left:50% auto;
+        margin-right:50% auto;
+        margin-top:50% auto;
+        display: inline-flex;
+    }
+}
+.wmmt{
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 100px;  
+}
+.myword{
+    text-align:center;
+    margin-left:680px;
+    margin-right:680px;
+    margin-top: 20px;
+    background-color: lavender;
+}
+.disclaimer{
+    margin-left:30.5%;
+    margin-right:30.5%;
+    background-color:lightcoral;
+    margin-top:30px;
+}
+.title{
+    margin-top:-3px;
+    background-color:gold;
+    padding:5px;
+    text-align:center;
+    font-family: sans-serif;
+}
